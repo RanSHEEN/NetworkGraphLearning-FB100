@@ -25,23 +25,6 @@ This project explores complex network analysis using the Facebook100 dataset, wh
 - Scikit-learn
 - PyTorch (for label propagation algorithms)
 
-## How to Run the Project
-1. **Clone the Repository:**
-   ```bash
-   git clone <repository_url>
-   ```
-
-2. **Run the Analysis:**
-   Execute the main Python scripts in the following order:
-   - `social_network_analysis.py`
-   - `assortativity_analysis.py`
-   - `link_prediction.py`
-   - `label_propagation.py`
-   - `community_detection.py`
-
-4. **View Results:**
-   Output files and visualizations will be saved in the `results/` directory.
-
 ## Project Structure
 ```
 project-directory/
